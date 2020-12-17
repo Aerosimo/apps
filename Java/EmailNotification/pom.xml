@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Send Email</name>
 	<description>The JavaMail API provides a platform-independent and protocol-independent framework to build mail and messaging applications. Java Mail is a Java EE API used to send and receive email via SMTP, POP3 and IMAP.</description>
-	<url>https://www.aerosimo.com/jdbc.html</url>
+	<url>https://www.aerosimo.com/sendmail.html</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>	
