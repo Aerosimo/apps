@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Quartz is an open source job-scheduling framework written entirely in Java</name>
 	<description>Quartz can be used to create simple or complex schedules for executing tens, hundreds, or even tens-of-thousands of jobs; jobs whose tasks are defined as standard Java components that may execute virtually anything you may program them to do.</description>
-	<url>https://www.aerosimo.com/jdbc.html</url>
+	<url>https://www.aerosimo.com/scheduler.html</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
